@@ -1,0 +1,10 @@
+
+.galleryImg{
+    display: inline-block;
+    padding: 20px;
+}
+
+body{
+    background-color: transparent;
+    font-family: 'Raleway', sans-serif;
+}
